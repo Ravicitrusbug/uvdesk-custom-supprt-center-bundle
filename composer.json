@@ -1,12 +1,12 @@
 {
-    "name": "uvdesk/support-center-bundle",
+    "name": "myhelpdesk/custom-support-center-bundle",
     "description": "UVDesk Community Helpdesk Customer Support Center Bundle",
     "type": "symfony-bundle",
     "license": "MIT",
     "authors": [
         {
-            "name": "Akshay Kumar",
-            "email": "akshay.kumar758@webkul.com"
+            "name": "Ravi Prajapati",
+            "email": "ravi.citrusbug@gmail.com"
         }
     ],
     "require": {
